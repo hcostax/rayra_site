@@ -7,7 +7,7 @@ education:
   - course: Bsc. Piscologia
     institution: Universidade Federal de Mato Grosso
     year: 2021
-email: "ahorst@ucsb.edu"
+email: "psicologarayra@gmail.com"
 interests:
 - Teaching
 - Environmental science
@@ -24,12 +24,11 @@ social:
 - icon: fab fa-whatsapp
   icon_pack: fab
   link: https://api.whatsapp.com/message/FC6VI327IRXLC1
+  
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/rayrapsicologa/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/allisonhorst
+
 - icon: envelope
   icon_pack: fas
   link: '#contact'
