@@ -1,0 +1,48 @@
+---
+abstract:  
+all_day: false
+authors: [Rayra Costa]
+date: "2021-05-15"
+# date_end: "2019-11-14"
+event: 
+event_url: 
+featured: false
+# image: 
+#   caption: 'Image credit: # [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#   focal_point: Right
+links:
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/allison_horst
+# location: Source Themes HQ
+
+- icon: fas fa-film
+  icon_pack: fas
+  name: Instagram Reels
+  url: https://www.instagram.com/reel/CO5OhLxFI3j/
+  
+math: true
+# projects:
+# - internal-project
+publishDate: "2021-05-15"
+summary: 
+
+tags: []
+title: "Frases para dizer a uma criança com sintomas de ansiedade"
+# url_code: ""
+# url_website: ""
+# url_slides: ""
+# url_video: ""
+---
+
+Este ano tem sido muito difícil para todos em geral, as crianças possam estar mais ansiosas, principalmente por estarem em casa por muito tempo e estar num espaço limitado.
+
+Essas frases podem ajudar e é bom  evitar as frases negativas como "ninguém na sua idade liga para isso", "não tem nada acontecendo", "de novo com a mesma coisa?"
+
+Uma criança ansiosa não quer ser, é uma criança que sofre e deve ser acompanhada com empatia e por um profissional.
+
+É IMPORTANTE LEMBRAR QUE NENHUMA DICA DESSE INSTAGRAM SUBSTITUI O ATENDIMENTO PSICOLÓGICO. SÃO APENAS  INFORMAÇÕES E ESTRATÉGIAS QUE PODEM AUXILIAR NO COTIDIANO.
+
+#ansiedadeinfantil #comportamentoinfantil
+#maternidade #paternidade #sermae #educaçãoinfantil #educacaoparental #crianças #filhos #cuiaba #psicologiainfantil

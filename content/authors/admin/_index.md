@@ -38,4 +38,4 @@ user_groups:
 - Visitors
 ---
 
-Hi everyone, I'm Allison! I'm an Assistant Teaching Professor at the Bren School of Environmental Science and Management at UC Santa Barbara, where I teach statistics, data analysis, and science communication. I was also RStudio's 2019-2020 Artist-in-Residence, and you can find some of my R- and stats-related artwork [**here**](https://github.com/allisonhorst/stats-illustrations).
+Olá visitante, sou a Rayra! Psicóloga com atuação principalmente com o público infantil. Bacharelada pela Universidade Federal de Mato Grosso. E aqui você pode encontrar algumas das minhas obras de arte relacionadas a minha atuação proficional.

@@ -1,0 +1,41 @@
+---
+abstract:  
+all_day: false
+authors: [Rayra Costa]
+date: "2021-05-01"
+# date_end: "2019-11-14"
+event: 
+event_url: 
+featured: false
+# image: 
+#   caption: 'Image credit: # [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#   focal_point: Right
+links:
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/allison_horst
+# location: Source Themes HQ
+
+- icon: fas fa-film
+  icon_pack: fas
+  name: Instagram Reels
+  url: https://www.instagram.com/reel/COU8PnQl5PH/
+  
+math: true
+# projects:
+# - internal-project
+publishDate: "2021-05-01"
+summary: 
+
+tags: []
+title: "Como cuidar da saúde emocional do seu filho(a)"
+# url_code: ""
+# url_website: ""
+# url_slides: ""
+# url_video: ""
+---
+
+A maioria dos pais é cuidadosa com a saúde física de seus filhos - levando-os para consultas de saúde, oferecendo alimentos nutritivos, mantendo-os ativos. Com que frequência você pensa em cuidar da saúde emocional de seu filho?
+
+#emoções #sentimentos #educacaoemocional #educacaoparental #educandofilhos #maternidadereal #maternidade #paternidadeativa #paisefilhos #psicologiainfantil #educandocomamor #cuiaba #sermae #crianças #filhos

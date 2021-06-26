@@ -3,9 +3,9 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 100  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
-title = "Skills & Interests"
+title = "Posso te ajudar com:"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,57 +15,23 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
+  icon = "fas fa-seedling"
+  icon_pack = "fas"
+  name = "Desenvolvimento Infantil"
   description = ""
   
 [[feature]]
-  icon = "globe-africa"
+  icon = "fas fa-brain"
   icon_pack = "fas"
-  name = "Environmental data analysis"
+  name = "Vinculo, Emoções & Saúde Mental"
   description = ""
   
 [[feature]]
-  icon = "school"
+  icon = "fas fa-child"
   icon_pack = "fas"
-  name = "Teaching & education"
+  name = "Orientação para os pais"
   description = ""
   
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = ""  
-  
-[[feature]]
-  icon = "palette"
-  icon_pack = "fas"
-  name = "Art & design"
-  description = ""
-  
-[[feature]]
-  icon = "satellite-dish"
-  icon_pack = "fas"
-  name = "Science communication"
-  description = ""
 
-[[feature]]
-  icon = "square-root-alt"
-  icon_pack = "fas"
-  name = "Math"
-  description = ""
-  
-[[feature]]
-  icon = "paw"
-  icon_pack = "fas"
-  name = "Teddy dog"
-  description = ""
-  
-[[feature]]
-  icon = "mountain"
-  icon_pack = "fas"
-  name = "Adventuring"
-  description = ""
 
 +++
