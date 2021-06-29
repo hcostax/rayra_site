@@ -42,3 +42,7 @@ user_groups:
 Sou Psicóloga pela UFMT, pós graduanda em Neurociência, Educação e Desenvolvimento - PUC/RS, e faço parte da diretoria da ONG Coletivo Cuiabá. Meu foco de trabalho é o desenvolvimento infantil, seja cognitivo, social ou emocional da criança, além da orientação parental, no qual é parte imprescindível da Psicoterapia Infantil. As vezes sou séria, outras engraçadinha, amo o nascer e o pôr do sol, açai, e todo tipo de plantas 🌱☀️❤️
 
 Aguardo seu contato!
+
+
+- [Fale comigo pelo WhatsApp clicando aqui!](https://api.whatsapp.com/message/FC6VI327IRXLC1)
+- [Faça um agendamento clicando aqui!](https://calendly.com/psicologarayra/atendimento-presencial)
