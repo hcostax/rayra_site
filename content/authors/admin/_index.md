@@ -18,8 +18,8 @@ interests:
 - Arteterapia 
 name: Rayra Costa
 organizations:
-- name: Faça seu agendamento clicando aqui!
-  url: "https://calendly.com/psicologarayra/atendimento-presencial"
+- name: Fale comigo pelo WhatsApp clicando aqui!
+  url: "https://api.whatsapp.com/message/FC6VI327IRXLC1"
 role: Psicóloga Clinica Infantil - CRP 18/06176
 social:
 - icon: fab fa-whatsapp
@@ -44,5 +44,4 @@ Sou Psicóloga pela UFMT, pós graduanda em Neurociência, Educação e Desenvol
 Aguardo seu contato!
 
 
-- [Fale comigo pelo WhatsApp clicando aqui!](https://api.whatsapp.com/message/FC6VI327IRXLC1)
 - [Faça um agendamento clicando aqui!](https://calendly.com/psicologarayra/atendimento-presencial)
