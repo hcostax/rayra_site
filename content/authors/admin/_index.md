@@ -4,7 +4,7 @@ authors:
 bio: 🌱 Ajudo você a entender o Desenvolvimento Infantil. 🗣️ Vinculo - Emoções - Saúde Mental. Atendimento Infantil e Orientação de pais.
 education:
   courses:
-  - course: Bsc. Piscologia
+  - course: Bsc. Psicologia
     institution: Universidade Federal de Mato Grosso
     year: 2020
 email: "psicologarayra@gmail.com"
