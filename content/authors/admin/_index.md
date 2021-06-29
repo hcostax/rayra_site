@@ -6,7 +6,7 @@ education:
   courses:
   - course: Bsc. Piscologia
     institution: Universidade Federal de Mato Grosso
-    year: 2021
+    year: 2020
 email: "psicologarayra@gmail.com"
 interests:
 - Desenvolvimento Infantil 
